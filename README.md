@@ -1,2 +1,2 @@
 # GitHub-Intro
-MachineProblem#2
+This is the MachineProblem#2 for ELEC4
